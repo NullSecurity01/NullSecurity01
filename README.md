@@ -1,56 +1,40 @@
 <h1 align="center">Hi 👋, I'm Adithya</h1>
-<h3 align="center">Aspiring Cyber Security Professional</h3>
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=nullsecurity01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+🌱 I’m currently learning **Cyber Security**
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-<p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=nullsecurity01" alt="Trophies" />
-    </a>
-</p>
 
----
+<br>
+<h3 align="left">Languages and Tools:</h3>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p><br>
 
-### 🚀 Current Projects
-- 🔭 I’m currently working on [WR4TH](https://github.com/NullSecurity01/WR4TH)
 
-### 📚 Learning
-- 🌱 Currently diving into **C++, PenTesting, and AI.**
+<hr width="36%" >
 
-### 📫 Get in Touch
-- Email: [thisisadithya07@gmail.com](mailto:thisisadithya07@gmail.com)
+<h3>My GitHub Stats</h3>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<br>
 
----
 
-### 📡 Connect with Me
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NullSecurity01&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="NullSecurity01" /></p>
+
+<br><br><br><br><br><br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=NullSecurity01&theme=dark&show_icons=true&hide_border=true&count_private=false" alt="NullSecurity01 " /></p>
+<br><br><br><br><br><br><br><br><br><br>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NullSecurity01&theme=dark&hide_border=true" alt="NullSecurity01" /></p>
+<br><br><br><br><br><br><br><br><br><br>
+<hr width="60%" >
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/adithya-poojary-1771b9331" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-    </a>
-    <a href="https://www.hackerrank.com/profile/thisisadithya07" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-    </a>
+<a href="https://www.linkedin.com/in/adithya-poojary-1771b9331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
+<a href=" https://www.hackerrank.com/profile/thisisadithya07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="21304875" height="30" width="40" /></a>
 </p>
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NullSecurity01&label=Profile%20views&color=0e75b6&style=flat" alt="anii693" /> </p>
 
----
+------
 
-### 🛠️ Languages and Tools
-<p align="left">
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-    </a>
-    <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-    </a>
-</p>
 
----
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=nullsecurity01&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+[NullSecurity01](https://github.com/NullSecurity01)
