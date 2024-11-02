@@ -53,7 +53,6 @@
 <h3>TryHackMe Badge:</h3>
 <p>
     <img src="https://tryhackme-badges.s3.amazonaws.com/NullSec07.png" alt="Your Image Badge" />
-    <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3727570" alt="Your Image Badge1" />
 </p>
 
 <hr width="60%" >
