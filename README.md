@@ -52,7 +52,8 @@
 
 <h3>TryHackMe Badge:</h3>
 <p>
-  <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3727570" alt="TryHackMe Badge" style="border:none;" />
+   <a href="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3727570" target="blank">
+    <img align="center" src="https://tryhackme-badges.s3.amazonaws.com/NullSec07.png" alt="adithya-poojary-1771b9331" height="30" width="40" />
 </p>
 
 <hr width="60%" >
