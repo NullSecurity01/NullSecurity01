@@ -51,11 +51,6 @@
 <hr width="60%" >
 
 <h3>TryHackMe Badge:</h3>
-<p>
-  Check out my TryHackMe profile: 
-  <a href="https://tryhackme.com/profile/3727570" target="_blank">View Profile</a>
-</p>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3727570" style='border:none; width:100%; height:200px;'></iframe>
 
 <hr width="60%" >
-
-<p>Feel free to check out my GitHub: <a href="https://github.com/NullSecurity01">NullSecurity01</a></p>
