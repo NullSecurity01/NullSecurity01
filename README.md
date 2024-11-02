@@ -28,7 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/adithya-poojary-1771b9331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adithya-poojary-1771b9331" height="30" width="40" /></a>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3727570" style='border:none;'></iframe>
+<a href="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3727570" target="blank"><img align="center" height="30" width="40" /></a>
 </p>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NullSecurity01&label=Profile%20views&color=0e75b6&style=flat" alt="anii693" /> </p>
