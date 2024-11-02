@@ -51,6 +51,8 @@
 <hr width="60%" >
 
 <h3>TryHackMe Badge:</h3>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3727570" style='border:none; width:100%; height:200px;'></iframe>
+<p>
+  <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3727570" alt="TryHackMe Badge" style="border:none;" />
+</p>
 
 <hr width="60%" >
