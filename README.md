@@ -51,7 +51,10 @@
 <hr width="60%" >
 
 <h3>TryHackMe Badge:</h3>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3727570" style='border:none;'></iframe>
+<p>
+  Check out my TryHackMe profile: 
+  <a href="https://tryhackme.com/profile/3727570" target="_blank">View Profile</a>
+</p>
 
 <hr width="60%" >
 
